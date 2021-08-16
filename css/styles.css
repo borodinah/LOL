@@ -1,0 +1,38 @@
+button {
+	color: #FFFFE0;
+	background-color: #808000;
+	border: none;
+  height: auto;
+	font-family: "Times New Roman", Georgia, Serif;
+  text-align: center;
+}
+#page1 {
+	color: #000000;
+	font: 12px Tahoma, sans-serif;
+	background-color: #000000;
+	margin: 0;
+}
+#page2 {
+	color: #f79ede;
+	font: 12px Tahoma, sans-serif;
+	background-color: #f79ede;
+	margin: 0;
+}
+.container {
+  margin-left: 50%;
+  margin-right: -50%;
+  position: absolute;
+  top: 40%;
+}
+#page3 {
+	color: #69430a;
+	font: 12px Tahoma, sans-serif;
+	background-color: #69430a;
+	margin: 0;
+}
+.noanswer{
+	margin-left: 50%;
+	margin-right: -50%;
+	position: absolute;
+	top: 60%;
+}
